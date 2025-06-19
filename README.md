@@ -61,4 +61,6 @@ SwastickArena_OfficialGame/
 
 
 
-<img src="https://raw.githubusercontent.com/your-username/SwastickArena_OfficialGame/main/BrandingAssets/SwastickArena_Logo.png" width="300"/>
+<p align="center">
+  <img src="BrandingAssets/SwastikArena_Logo.png" alt="Swastik Arena Logo" width="300"/>
+</p>
