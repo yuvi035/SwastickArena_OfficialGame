@@ -51,16 +51,4 @@ Welcome to the **Swastick Arena** GitHub repo — an Indian-style multiplayer su
 | Elite (250D)|# SwastickArena_OfficialGame
 
 
-SwastickArena_OfficialGame/
-├── BrandingAssets/
-│   └── SwastickArena_Logo.png
-├── .github/
-│   └── github_cover.png
-├── README.md
 
-
-
-
-<p align="center">
-  <img src="BrandingAssets/SwastikArena_Logo.png" alt="Swastik Arena Logo" width="300"/>
-</p>
