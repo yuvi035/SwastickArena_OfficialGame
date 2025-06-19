@@ -57,3 +57,8 @@ SwastickArena_OfficialGame/
 ├── .github/
 │   └── github_cover.png
 ├── README.md
+
+
+
+
+<img src="https://raw.githubusercontent.com/your-username/SwastickArena_OfficialGame/main/BrandingAssets/SwastickArena_Logo.png" width="300"/>
